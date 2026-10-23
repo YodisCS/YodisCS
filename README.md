@@ -13,11 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YodisCS](https://github.com/YodisCS)
 
-- 📝 I regularly write articles on [yodissaputra.netlify.app](yodissaputra.netlify.app)
-
 - 💬 Ask me about **HTML, CSS, JavaScript, and my learning journey in frontend development**
-
-- 📄 Know about my experiences [yodisporto.netlify.app](yodisporto.netlify.app)
 
 - ⚡ Fun fact **I enjoy turning creative ideas into interactive web experiences!**
 
